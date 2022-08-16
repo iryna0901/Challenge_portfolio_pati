@@ -17,12 +17,12 @@ The path to new heights.
 //*[@id="__next"]/form/div/div[1]/div[1]/div  
 
 **Scouts_Panel_xpath**
-//*[@id="__next"]/form/div/div[1]/h5
- //*[text()="Scouts Panel"]
+//*[@id="__next"]/form/div/div[1]/h5  
+ //*[text()="Scouts Panel"]  
  
  **Password_xpath**
- //*[@id="password-label"]
- //*[text()="Password"]
- //*[@id="password"]
+ //*[@id="password-label"]  
+ //*[text()="Password"]  
+ //*[@id="password"]  
  
  
