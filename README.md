@@ -12,6 +12,6 @@ The path to new heights.
 
 **remaind_login_hyperlink_xpath**
 
-//*[text()="Login"]
-//*[@id="login-label"]
-//*[@id="__next"]/form/div/div[1]/div[1]/div.
+//*[text()="Login"]  
+//*[@id="login-label"]  
+//*[@id="__next"]/form/div/div[1]/div[1]/div  
