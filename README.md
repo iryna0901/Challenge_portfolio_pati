@@ -14,4 +14,4 @@ The path to new heights.
 
 //*[text()="Login"]
 //*[@id="login-label"]
-//*[@id="__next"]/form/div/div[1]/div[1]/div
+//*[@id="__next"]/form/div/div[1]/div[1]/div.
